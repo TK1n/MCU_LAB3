@@ -1,0 +1,14 @@
+displayLED.c:10:6:display7SEG	16	static
+displayLED.c:108:6:setRED1	8	static
+displayLED.c:113:6:setRED2	8	static
+displayLED.c:118:6:setGRN1	8	static
+displayLED.c:123:6:setGRN2	8	static
+displayLED.c:128:6:setYLW1	8	static
+displayLED.c:133:6:setYLW2	8	static
+displayLED.c:139:6:set_led	16	static
+displayLED.c:158:6:led_blinky	16	static
+displayLED.c:186:6:update7SEG	16	static
+displayLED.c:223:6:updateBufferMode1	16	static
+displayLED.c:269:6:updateBufferMode2	4	static
+displayLED.c:276:6:updateBufferMode3	4	static
+displayLED.c:283:6:updateBufferMode4	4	static
